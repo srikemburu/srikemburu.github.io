@@ -1,0 +1,47 @@
+
+#div1 {
+    background-color: bisque;
+}
+#div2 {
+    background-color: yellowgreen;
+}
+#div3 {
+    background-color: blueviolet;
+}
+#div4 {
+    background-color: burlywood;
+}
+
+#div1, #div2, #div3, #div4 {
+    border: dashed;
+}
+
+body {background-color:bisque;
+}
+
+h1 {
+    color : brown;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    color: brown;
+}
+
+p {
+    color :coral;
+}
+
+li {
+    color :crimson;
+}
+
+#srilist {
+    color : green;
+}
+
+.favlist {
+    text-decoration: underline;
+}
